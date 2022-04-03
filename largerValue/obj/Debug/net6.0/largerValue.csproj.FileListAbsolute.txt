@@ -1,0 +1,15 @@
+C:\Users\pkaze\Desktop\VS Projects\C-Sharp-MSdocs\largerValue\bin\Debug\net6.0\largerValue.exe
+C:\Users\pkaze\Desktop\VS Projects\C-Sharp-MSdocs\largerValue\bin\Debug\net6.0\largerValue.deps.json
+C:\Users\pkaze\Desktop\VS Projects\C-Sharp-MSdocs\largerValue\bin\Debug\net6.0\largerValue.runtimeconfig.json
+C:\Users\pkaze\Desktop\VS Projects\C-Sharp-MSdocs\largerValue\bin\Debug\net6.0\largerValue.dll
+C:\Users\pkaze\Desktop\VS Projects\C-Sharp-MSdocs\largerValue\bin\Debug\net6.0\largerValue.pdb
+C:\Users\pkaze\Desktop\VS Projects\C-Sharp-MSdocs\largerValue\obj\Debug\net6.0\largerValue.csproj.AssemblyReference.cache
+C:\Users\pkaze\Desktop\VS Projects\C-Sharp-MSdocs\largerValue\obj\Debug\net6.0\largerValue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pkaze\Desktop\VS Projects\C-Sharp-MSdocs\largerValue\obj\Debug\net6.0\largerValue.AssemblyInfoInputs.cache
+C:\Users\pkaze\Desktop\VS Projects\C-Sharp-MSdocs\largerValue\obj\Debug\net6.0\largerValue.AssemblyInfo.cs
+C:\Users\pkaze\Desktop\VS Projects\C-Sharp-MSdocs\largerValue\obj\Debug\net6.0\largerValue.csproj.CoreCompileInputs.cache
+C:\Users\pkaze\Desktop\VS Projects\C-Sharp-MSdocs\largerValue\obj\Debug\net6.0\largerValue.dll
+C:\Users\pkaze\Desktop\VS Projects\C-Sharp-MSdocs\largerValue\obj\Debug\net6.0\refint\largerValue.dll
+C:\Users\pkaze\Desktop\VS Projects\C-Sharp-MSdocs\largerValue\obj\Debug\net6.0\largerValue.pdb
+C:\Users\pkaze\Desktop\VS Projects\C-Sharp-MSdocs\largerValue\obj\Debug\net6.0\largerValue.genruntimeconfig.cache
+C:\Users\pkaze\Desktop\VS Projects\C-Sharp-MSdocs\largerValue\obj\Debug\net6.0\ref\largerValue.dll
