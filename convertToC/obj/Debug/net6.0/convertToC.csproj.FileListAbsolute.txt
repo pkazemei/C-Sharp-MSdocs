@@ -1,0 +1,15 @@
+C:\Users\pkaze\Desktop\VS Projects\C-Sharp Practice\convertToC\bin\Debug\net6.0\convertToC.exe
+C:\Users\pkaze\Desktop\VS Projects\C-Sharp Practice\convertToC\bin\Debug\net6.0\convertToC.deps.json
+C:\Users\pkaze\Desktop\VS Projects\C-Sharp Practice\convertToC\bin\Debug\net6.0\convertToC.runtimeconfig.json
+C:\Users\pkaze\Desktop\VS Projects\C-Sharp Practice\convertToC\bin\Debug\net6.0\convertToC.dll
+C:\Users\pkaze\Desktop\VS Projects\C-Sharp Practice\convertToC\bin\Debug\net6.0\convertToC.pdb
+C:\Users\pkaze\Desktop\VS Projects\C-Sharp Practice\convertToC\obj\Debug\net6.0\convertToC.csproj.AssemblyReference.cache
+C:\Users\pkaze\Desktop\VS Projects\C-Sharp Practice\convertToC\obj\Debug\net6.0\convertToC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pkaze\Desktop\VS Projects\C-Sharp Practice\convertToC\obj\Debug\net6.0\convertToC.AssemblyInfoInputs.cache
+C:\Users\pkaze\Desktop\VS Projects\C-Sharp Practice\convertToC\obj\Debug\net6.0\convertToC.AssemblyInfo.cs
+C:\Users\pkaze\Desktop\VS Projects\C-Sharp Practice\convertToC\obj\Debug\net6.0\convertToC.csproj.CoreCompileInputs.cache
+C:\Users\pkaze\Desktop\VS Projects\C-Sharp Practice\convertToC\obj\Debug\net6.0\convertToC.dll
+C:\Users\pkaze\Desktop\VS Projects\C-Sharp Practice\convertToC\obj\Debug\net6.0\refint\convertToC.dll
+C:\Users\pkaze\Desktop\VS Projects\C-Sharp Practice\convertToC\obj\Debug\net6.0\convertToC.pdb
+C:\Users\pkaze\Desktop\VS Projects\C-Sharp Practice\convertToC\obj\Debug\net6.0\convertToC.genruntimeconfig.cache
+C:\Users\pkaze\Desktop\VS Projects\C-Sharp Practice\convertToC\obj\Debug\net6.0\ref\convertToC.dll
