@@ -1,0 +1,15 @@
+C:\Users\pkaze\Desktop\VS Projects\C-Sharp-MSdocs\subscriptionExpiration\bin\Debug\net6.0\subscriptionExpiration.exe
+C:\Users\pkaze\Desktop\VS Projects\C-Sharp-MSdocs\subscriptionExpiration\bin\Debug\net6.0\subscriptionExpiration.deps.json
+C:\Users\pkaze\Desktop\VS Projects\C-Sharp-MSdocs\subscriptionExpiration\bin\Debug\net6.0\subscriptionExpiration.runtimeconfig.json
+C:\Users\pkaze\Desktop\VS Projects\C-Sharp-MSdocs\subscriptionExpiration\bin\Debug\net6.0\subscriptionExpiration.dll
+C:\Users\pkaze\Desktop\VS Projects\C-Sharp-MSdocs\subscriptionExpiration\bin\Debug\net6.0\subscriptionExpiration.pdb
+C:\Users\pkaze\Desktop\VS Projects\C-Sharp-MSdocs\subscriptionExpiration\obj\Debug\net6.0\subscriptionExpiration.csproj.AssemblyReference.cache
+C:\Users\pkaze\Desktop\VS Projects\C-Sharp-MSdocs\subscriptionExpiration\obj\Debug\net6.0\subscriptionExpiration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pkaze\Desktop\VS Projects\C-Sharp-MSdocs\subscriptionExpiration\obj\Debug\net6.0\subscriptionExpiration.AssemblyInfoInputs.cache
+C:\Users\pkaze\Desktop\VS Projects\C-Sharp-MSdocs\subscriptionExpiration\obj\Debug\net6.0\subscriptionExpiration.AssemblyInfo.cs
+C:\Users\pkaze\Desktop\VS Projects\C-Sharp-MSdocs\subscriptionExpiration\obj\Debug\net6.0\subscriptionExpiration.csproj.CoreCompileInputs.cache
+C:\Users\pkaze\Desktop\VS Projects\C-Sharp-MSdocs\subscriptionExpiration\obj\Debug\net6.0\subscriptionExpiration.dll
+C:\Users\pkaze\Desktop\VS Projects\C-Sharp-MSdocs\subscriptionExpiration\obj\Debug\net6.0\refint\subscriptionExpiration.dll
+C:\Users\pkaze\Desktop\VS Projects\C-Sharp-MSdocs\subscriptionExpiration\obj\Debug\net6.0\subscriptionExpiration.pdb
+C:\Users\pkaze\Desktop\VS Projects\C-Sharp-MSdocs\subscriptionExpiration\obj\Debug\net6.0\subscriptionExpiration.genruntimeconfig.cache
+C:\Users\pkaze\Desktop\VS Projects\C-Sharp-MSdocs\subscriptionExpiration\obj\Debug\net6.0\ref\subscriptionExpiration.dll

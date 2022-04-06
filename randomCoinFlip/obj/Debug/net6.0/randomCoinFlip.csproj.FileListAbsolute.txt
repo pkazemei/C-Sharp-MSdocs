@@ -1,0 +1,15 @@
+C:\Users\pkaze\Desktop\VS Projects\C-Sharp-MSdocs\randomCoinFlip\bin\Debug\net6.0\randomCoinFlip.exe
+C:\Users\pkaze\Desktop\VS Projects\C-Sharp-MSdocs\randomCoinFlip\bin\Debug\net6.0\randomCoinFlip.deps.json
+C:\Users\pkaze\Desktop\VS Projects\C-Sharp-MSdocs\randomCoinFlip\bin\Debug\net6.0\randomCoinFlip.runtimeconfig.json
+C:\Users\pkaze\Desktop\VS Projects\C-Sharp-MSdocs\randomCoinFlip\bin\Debug\net6.0\randomCoinFlip.dll
+C:\Users\pkaze\Desktop\VS Projects\C-Sharp-MSdocs\randomCoinFlip\bin\Debug\net6.0\randomCoinFlip.pdb
+C:\Users\pkaze\Desktop\VS Projects\C-Sharp-MSdocs\randomCoinFlip\obj\Debug\net6.0\randomCoinFlip.csproj.AssemblyReference.cache
+C:\Users\pkaze\Desktop\VS Projects\C-Sharp-MSdocs\randomCoinFlip\obj\Debug\net6.0\randomCoinFlip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pkaze\Desktop\VS Projects\C-Sharp-MSdocs\randomCoinFlip\obj\Debug\net6.0\randomCoinFlip.AssemblyInfoInputs.cache
+C:\Users\pkaze\Desktop\VS Projects\C-Sharp-MSdocs\randomCoinFlip\obj\Debug\net6.0\randomCoinFlip.AssemblyInfo.cs
+C:\Users\pkaze\Desktop\VS Projects\C-Sharp-MSdocs\randomCoinFlip\obj\Debug\net6.0\randomCoinFlip.csproj.CoreCompileInputs.cache
+C:\Users\pkaze\Desktop\VS Projects\C-Sharp-MSdocs\randomCoinFlip\obj\Debug\net6.0\randomCoinFlip.dll
+C:\Users\pkaze\Desktop\VS Projects\C-Sharp-MSdocs\randomCoinFlip\obj\Debug\net6.0\refint\randomCoinFlip.dll
+C:\Users\pkaze\Desktop\VS Projects\C-Sharp-MSdocs\randomCoinFlip\obj\Debug\net6.0\randomCoinFlip.pdb
+C:\Users\pkaze\Desktop\VS Projects\C-Sharp-MSdocs\randomCoinFlip\obj\Debug\net6.0\randomCoinFlip.genruntimeconfig.cache
+C:\Users\pkaze\Desktop\VS Projects\C-Sharp-MSdocs\randomCoinFlip\obj\Debug\net6.0\ref\randomCoinFlip.dll

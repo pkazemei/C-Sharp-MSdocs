@@ -1,0 +1,15 @@
+C:\Users\pkaze\Desktop\VS Projects\C-Sharp-MSdocs\fakeOrderIDs\bin\Debug\net6.0\fakeOrderIDs.exe
+C:\Users\pkaze\Desktop\VS Projects\C-Sharp-MSdocs\fakeOrderIDs\bin\Debug\net6.0\fakeOrderIDs.deps.json
+C:\Users\pkaze\Desktop\VS Projects\C-Sharp-MSdocs\fakeOrderIDs\bin\Debug\net6.0\fakeOrderIDs.runtimeconfig.json
+C:\Users\pkaze\Desktop\VS Projects\C-Sharp-MSdocs\fakeOrderIDs\bin\Debug\net6.0\fakeOrderIDs.dll
+C:\Users\pkaze\Desktop\VS Projects\C-Sharp-MSdocs\fakeOrderIDs\bin\Debug\net6.0\fakeOrderIDs.pdb
+C:\Users\pkaze\Desktop\VS Projects\C-Sharp-MSdocs\fakeOrderIDs\obj\Debug\net6.0\fakeOrderIDs.csproj.AssemblyReference.cache
+C:\Users\pkaze\Desktop\VS Projects\C-Sharp-MSdocs\fakeOrderIDs\obj\Debug\net6.0\fakeOrderIDs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pkaze\Desktop\VS Projects\C-Sharp-MSdocs\fakeOrderIDs\obj\Debug\net6.0\fakeOrderIDs.AssemblyInfoInputs.cache
+C:\Users\pkaze\Desktop\VS Projects\C-Sharp-MSdocs\fakeOrderIDs\obj\Debug\net6.0\fakeOrderIDs.AssemblyInfo.cs
+C:\Users\pkaze\Desktop\VS Projects\C-Sharp-MSdocs\fakeOrderIDs\obj\Debug\net6.0\fakeOrderIDs.csproj.CoreCompileInputs.cache
+C:\Users\pkaze\Desktop\VS Projects\C-Sharp-MSdocs\fakeOrderIDs\obj\Debug\net6.0\fakeOrderIDs.dll
+C:\Users\pkaze\Desktop\VS Projects\C-Sharp-MSdocs\fakeOrderIDs\obj\Debug\net6.0\refint\fakeOrderIDs.dll
+C:\Users\pkaze\Desktop\VS Projects\C-Sharp-MSdocs\fakeOrderIDs\obj\Debug\net6.0\fakeOrderIDs.pdb
+C:\Users\pkaze\Desktop\VS Projects\C-Sharp-MSdocs\fakeOrderIDs\obj\Debug\net6.0\fakeOrderIDs.genruntimeconfig.cache
+C:\Users\pkaze\Desktop\VS Projects\C-Sharp-MSdocs\fakeOrderIDs\obj\Debug\net6.0\ref\fakeOrderIDs.dll

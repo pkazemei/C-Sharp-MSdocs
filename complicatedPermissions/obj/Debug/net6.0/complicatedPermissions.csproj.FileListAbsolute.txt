@@ -1,0 +1,15 @@
+C:\Users\pkaze\Desktop\VS Projects\C-Sharp-MSdocs\complicatedPermissions\bin\Debug\net6.0\complicatedPermissions.exe
+C:\Users\pkaze\Desktop\VS Projects\C-Sharp-MSdocs\complicatedPermissions\bin\Debug\net6.0\complicatedPermissions.deps.json
+C:\Users\pkaze\Desktop\VS Projects\C-Sharp-MSdocs\complicatedPermissions\bin\Debug\net6.0\complicatedPermissions.runtimeconfig.json
+C:\Users\pkaze\Desktop\VS Projects\C-Sharp-MSdocs\complicatedPermissions\bin\Debug\net6.0\complicatedPermissions.dll
+C:\Users\pkaze\Desktop\VS Projects\C-Sharp-MSdocs\complicatedPermissions\bin\Debug\net6.0\complicatedPermissions.pdb
+C:\Users\pkaze\Desktop\VS Projects\C-Sharp-MSdocs\complicatedPermissions\obj\Debug\net6.0\complicatedPermissions.csproj.AssemblyReference.cache
+C:\Users\pkaze\Desktop\VS Projects\C-Sharp-MSdocs\complicatedPermissions\obj\Debug\net6.0\complicatedPermissions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pkaze\Desktop\VS Projects\C-Sharp-MSdocs\complicatedPermissions\obj\Debug\net6.0\complicatedPermissions.AssemblyInfoInputs.cache
+C:\Users\pkaze\Desktop\VS Projects\C-Sharp-MSdocs\complicatedPermissions\obj\Debug\net6.0\complicatedPermissions.AssemblyInfo.cs
+C:\Users\pkaze\Desktop\VS Projects\C-Sharp-MSdocs\complicatedPermissions\obj\Debug\net6.0\complicatedPermissions.csproj.CoreCompileInputs.cache
+C:\Users\pkaze\Desktop\VS Projects\C-Sharp-MSdocs\complicatedPermissions\obj\Debug\net6.0\complicatedPermissions.dll
+C:\Users\pkaze\Desktop\VS Projects\C-Sharp-MSdocs\complicatedPermissions\obj\Debug\net6.0\refint\complicatedPermissions.dll
+C:\Users\pkaze\Desktop\VS Projects\C-Sharp-MSdocs\complicatedPermissions\obj\Debug\net6.0\complicatedPermissions.pdb
+C:\Users\pkaze\Desktop\VS Projects\C-Sharp-MSdocs\complicatedPermissions\obj\Debug\net6.0\complicatedPermissions.genruntimeconfig.cache
+C:\Users\pkaze\Desktop\VS Projects\C-Sharp-MSdocs\complicatedPermissions\obj\Debug\net6.0\ref\complicatedPermissions.dll
