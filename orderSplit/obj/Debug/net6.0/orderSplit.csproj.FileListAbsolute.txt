@@ -1,0 +1,15 @@
+C:\Users\pkaze\Desktop\VS Projects\C-Sharp-MSdocs\orderSplit\bin\Debug\net6.0\orderSplit.exe
+C:\Users\pkaze\Desktop\VS Projects\C-Sharp-MSdocs\orderSplit\bin\Debug\net6.0\orderSplit.deps.json
+C:\Users\pkaze\Desktop\VS Projects\C-Sharp-MSdocs\orderSplit\bin\Debug\net6.0\orderSplit.runtimeconfig.json
+C:\Users\pkaze\Desktop\VS Projects\C-Sharp-MSdocs\orderSplit\bin\Debug\net6.0\orderSplit.dll
+C:\Users\pkaze\Desktop\VS Projects\C-Sharp-MSdocs\orderSplit\bin\Debug\net6.0\orderSplit.pdb
+C:\Users\pkaze\Desktop\VS Projects\C-Sharp-MSdocs\orderSplit\obj\Debug\net6.0\orderSplit.csproj.AssemblyReference.cache
+C:\Users\pkaze\Desktop\VS Projects\C-Sharp-MSdocs\orderSplit\obj\Debug\net6.0\orderSplit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pkaze\Desktop\VS Projects\C-Sharp-MSdocs\orderSplit\obj\Debug\net6.0\orderSplit.AssemblyInfoInputs.cache
+C:\Users\pkaze\Desktop\VS Projects\C-Sharp-MSdocs\orderSplit\obj\Debug\net6.0\orderSplit.AssemblyInfo.cs
+C:\Users\pkaze\Desktop\VS Projects\C-Sharp-MSdocs\orderSplit\obj\Debug\net6.0\orderSplit.csproj.CoreCompileInputs.cache
+C:\Users\pkaze\Desktop\VS Projects\C-Sharp-MSdocs\orderSplit\obj\Debug\net6.0\orderSplit.dll
+C:\Users\pkaze\Desktop\VS Projects\C-Sharp-MSdocs\orderSplit\obj\Debug\net6.0\refint\orderSplit.dll
+C:\Users\pkaze\Desktop\VS Projects\C-Sharp-MSdocs\orderSplit\obj\Debug\net6.0\orderSplit.pdb
+C:\Users\pkaze\Desktop\VS Projects\C-Sharp-MSdocs\orderSplit\obj\Debug\net6.0\orderSplit.genruntimeconfig.cache
+C:\Users\pkaze\Desktop\VS Projects\C-Sharp-MSdocs\orderSplit\obj\Debug\net6.0\ref\orderSplit.dll

@@ -1,0 +1,15 @@
+C:\Users\pkaze\Desktop\VS Projects\C-Sharp-MSdocs\switchCaseProduct\bin\Debug\net6.0\switchCaseProduct.exe
+C:\Users\pkaze\Desktop\VS Projects\C-Sharp-MSdocs\switchCaseProduct\bin\Debug\net6.0\switchCaseProduct.deps.json
+C:\Users\pkaze\Desktop\VS Projects\C-Sharp-MSdocs\switchCaseProduct\bin\Debug\net6.0\switchCaseProduct.runtimeconfig.json
+C:\Users\pkaze\Desktop\VS Projects\C-Sharp-MSdocs\switchCaseProduct\bin\Debug\net6.0\switchCaseProduct.dll
+C:\Users\pkaze\Desktop\VS Projects\C-Sharp-MSdocs\switchCaseProduct\bin\Debug\net6.0\switchCaseProduct.pdb
+C:\Users\pkaze\Desktop\VS Projects\C-Sharp-MSdocs\switchCaseProduct\obj\Debug\net6.0\switchCaseProduct.csproj.AssemblyReference.cache
+C:\Users\pkaze\Desktop\VS Projects\C-Sharp-MSdocs\switchCaseProduct\obj\Debug\net6.0\switchCaseProduct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pkaze\Desktop\VS Projects\C-Sharp-MSdocs\switchCaseProduct\obj\Debug\net6.0\switchCaseProduct.AssemblyInfoInputs.cache
+C:\Users\pkaze\Desktop\VS Projects\C-Sharp-MSdocs\switchCaseProduct\obj\Debug\net6.0\switchCaseProduct.AssemblyInfo.cs
+C:\Users\pkaze\Desktop\VS Projects\C-Sharp-MSdocs\switchCaseProduct\obj\Debug\net6.0\switchCaseProduct.csproj.CoreCompileInputs.cache
+C:\Users\pkaze\Desktop\VS Projects\C-Sharp-MSdocs\switchCaseProduct\obj\Debug\net6.0\switchCaseProduct.dll
+C:\Users\pkaze\Desktop\VS Projects\C-Sharp-MSdocs\switchCaseProduct\obj\Debug\net6.0\refint\switchCaseProduct.dll
+C:\Users\pkaze\Desktop\VS Projects\C-Sharp-MSdocs\switchCaseProduct\obj\Debug\net6.0\switchCaseProduct.pdb
+C:\Users\pkaze\Desktop\VS Projects\C-Sharp-MSdocs\switchCaseProduct\obj\Debug\net6.0\switchCaseProduct.genruntimeconfig.cache
+C:\Users\pkaze\Desktop\VS Projects\C-Sharp-MSdocs\switchCaseProduct\obj\Debug\net6.0\ref\switchCaseProduct.dll

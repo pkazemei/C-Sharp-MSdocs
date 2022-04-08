@@ -1,0 +1,15 @@
+C:\Users\pkaze\Desktop\VS Projects\C-Sharp-MSdocs\convertStrToInt\bin\Debug\net6.0\convertStrToInt.exe
+C:\Users\pkaze\Desktop\VS Projects\C-Sharp-MSdocs\convertStrToInt\bin\Debug\net6.0\convertStrToInt.deps.json
+C:\Users\pkaze\Desktop\VS Projects\C-Sharp-MSdocs\convertStrToInt\bin\Debug\net6.0\convertStrToInt.runtimeconfig.json
+C:\Users\pkaze\Desktop\VS Projects\C-Sharp-MSdocs\convertStrToInt\bin\Debug\net6.0\convertStrToInt.dll
+C:\Users\pkaze\Desktop\VS Projects\C-Sharp-MSdocs\convertStrToInt\bin\Debug\net6.0\convertStrToInt.pdb
+C:\Users\pkaze\Desktop\VS Projects\C-Sharp-MSdocs\convertStrToInt\obj\Debug\net6.0\convertStrToInt.csproj.AssemblyReference.cache
+C:\Users\pkaze\Desktop\VS Projects\C-Sharp-MSdocs\convertStrToInt\obj\Debug\net6.0\convertStrToInt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pkaze\Desktop\VS Projects\C-Sharp-MSdocs\convertStrToInt\obj\Debug\net6.0\convertStrToInt.AssemblyInfoInputs.cache
+C:\Users\pkaze\Desktop\VS Projects\C-Sharp-MSdocs\convertStrToInt\obj\Debug\net6.0\convertStrToInt.AssemblyInfo.cs
+C:\Users\pkaze\Desktop\VS Projects\C-Sharp-MSdocs\convertStrToInt\obj\Debug\net6.0\convertStrToInt.csproj.CoreCompileInputs.cache
+C:\Users\pkaze\Desktop\VS Projects\C-Sharp-MSdocs\convertStrToInt\obj\Debug\net6.0\convertStrToInt.dll
+C:\Users\pkaze\Desktop\VS Projects\C-Sharp-MSdocs\convertStrToInt\obj\Debug\net6.0\refint\convertStrToInt.dll
+C:\Users\pkaze\Desktop\VS Projects\C-Sharp-MSdocs\convertStrToInt\obj\Debug\net6.0\convertStrToInt.pdb
+C:\Users\pkaze\Desktop\VS Projects\C-Sharp-MSdocs\convertStrToInt\obj\Debug\net6.0\convertStrToInt.genruntimeconfig.cache
+C:\Users\pkaze\Desktop\VS Projects\C-Sharp-MSdocs\convertStrToInt\obj\Debug\net6.0\ref\convertStrToInt.dll

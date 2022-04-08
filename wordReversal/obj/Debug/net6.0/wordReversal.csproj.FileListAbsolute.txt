@@ -1,0 +1,15 @@
+C:\Users\pkaze\Desktop\VS Projects\C-Sharp-MSdocs\wordReversal\bin\Debug\net6.0\wordReversal.exe
+C:\Users\pkaze\Desktop\VS Projects\C-Sharp-MSdocs\wordReversal\bin\Debug\net6.0\wordReversal.deps.json
+C:\Users\pkaze\Desktop\VS Projects\C-Sharp-MSdocs\wordReversal\bin\Debug\net6.0\wordReversal.runtimeconfig.json
+C:\Users\pkaze\Desktop\VS Projects\C-Sharp-MSdocs\wordReversal\bin\Debug\net6.0\wordReversal.dll
+C:\Users\pkaze\Desktop\VS Projects\C-Sharp-MSdocs\wordReversal\bin\Debug\net6.0\wordReversal.pdb
+C:\Users\pkaze\Desktop\VS Projects\C-Sharp-MSdocs\wordReversal\obj\Debug\net6.0\wordReversal.csproj.AssemblyReference.cache
+C:\Users\pkaze\Desktop\VS Projects\C-Sharp-MSdocs\wordReversal\obj\Debug\net6.0\wordReversal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pkaze\Desktop\VS Projects\C-Sharp-MSdocs\wordReversal\obj\Debug\net6.0\wordReversal.AssemblyInfoInputs.cache
+C:\Users\pkaze\Desktop\VS Projects\C-Sharp-MSdocs\wordReversal\obj\Debug\net6.0\wordReversal.AssemblyInfo.cs
+C:\Users\pkaze\Desktop\VS Projects\C-Sharp-MSdocs\wordReversal\obj\Debug\net6.0\wordReversal.csproj.CoreCompileInputs.cache
+C:\Users\pkaze\Desktop\VS Projects\C-Sharp-MSdocs\wordReversal\obj\Debug\net6.0\wordReversal.dll
+C:\Users\pkaze\Desktop\VS Projects\C-Sharp-MSdocs\wordReversal\obj\Debug\net6.0\refint\wordReversal.dll
+C:\Users\pkaze\Desktop\VS Projects\C-Sharp-MSdocs\wordReversal\obj\Debug\net6.0\wordReversal.pdb
+C:\Users\pkaze\Desktop\VS Projects\C-Sharp-MSdocs\wordReversal\obj\Debug\net6.0\wordReversal.genruntimeconfig.cache
+C:\Users\pkaze\Desktop\VS Projects\C-Sharp-MSdocs\wordReversal\obj\Debug\net6.0\ref\wordReversal.dll
